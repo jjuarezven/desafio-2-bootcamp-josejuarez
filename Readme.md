@@ -1,10 +1,3 @@
-# Ejemplo de la ejecución del script:
-![image](https://user-images.githubusercontent.com/8219163/163623043-c70eadb8-223e-4ab6-99ef-e97ddfe701e7.png)
-
-# Resultado:
-![image](https://user-images.githubusercontent.com/8219163/163623097-bdb3306a-3b06-4da5-85de-49394c73283e.png)
-
-
 # 📋Descripción
 
 Diseñar un Script automatizado en bash - shell que permita la construccion de una aplicacion en python usando el framework Flask y en donde aplicaran los conocimientos adquiridos durante la clase 2 del bootcamp devops.
